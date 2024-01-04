@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Jake
 ## 🌱 About Me:
 
-🎓 Recent graduate of ML/AI Bootcamp (University of Utah) & Computer Science (Assoc. - Southern Utah University)  
+🎓 Soon-to-be graduate of ML/AI Bootcamp (University of Utah) & Computer Science (Assoc. - Southern Utah University)  
 🔭 I’m currently working on expanding my skills in Python, SQL, Data Science, and Machine Learning.  
 🌟 Passionate about solving problems using data and keen on learning new technologies.  
 
