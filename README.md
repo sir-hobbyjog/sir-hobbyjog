@@ -6,8 +6,8 @@
 🌟 Passionate about solving problems using data and keen on learning new technologies.  
 
 🛠️ Skills  
-Languages: Python (Pandas, NumPy, Scikit-learn), SQL  
-Tools & Technologies: Jupyter Notebook, Git, GitHub, SQL databases  
+Languages: Python (Pandas, NumPy, Scikit-learn, Prophet), SQL  
+Tools & Technologies: Jupyter Notebook, Git, GitHub, SQL databases, Google CoLab
 Fields of Interest: Data Analysis, Machine Learning, Data Visualization  
 
 📈 Projects  
