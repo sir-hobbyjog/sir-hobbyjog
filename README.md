@@ -7,7 +7,7 @@
 
 🛠️ Skills  
 Languages: Python (Pandas, NumPy, Scikit-learn, Prophet), SQL  
-Tools & Technologies: Jupyter Notebook, Git, GitHub, SQL databases, Google CoLab
+Tools & Technologies: Jupyter Notebook, Git, GitHub, SQL databases, Google CoLab  
 Fields of Interest: Data Analysis, Machine Learning, Data Visualization  
 
 📈 Projects  
