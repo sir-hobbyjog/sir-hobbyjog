@@ -11,7 +11,7 @@ Tools & Technologies: Jupyter Notebook, Git, GitHub, SQL databases, Google CoLab
 Fields of Interest: Data Analysis, Machine Learning, Data Visualization  
 
 📈 Projects  
-Recent the projects I've worked on:
+Recent projects I've worked on:
 - NYPD Crime Data with Pandas & Prophet
 
 💡 Goals  
