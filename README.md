@@ -13,6 +13,7 @@ Fields of Interest: Data Analysis, Machine Learning, Data Visualization
 📈 Projects  
 Recent projects I've worked on:
 - NYPD Crime Data with Pandas & Prophet
+- Breast Cancer Tumor Classification - Supervised Machine Learning (Scikit Learn) 
 
 💡 Goals  
 📚 I am currently learning more advanced Machine Learning techniques and Big Data technologies.  
